@@ -14,6 +14,6 @@ public class LogicalOperator {
         int c3=30;
         System.out.println(a1==b2 || a>b);//true
 
-
+        System.out.println("Your Logical Operator have been done ");
     }
 }
